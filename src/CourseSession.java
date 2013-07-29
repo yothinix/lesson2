@@ -1,7 +1,7 @@
 class CourseSession {
     private String department;
     private String number;
-    private int numberOfStudents;      //test version control
+    private int numberOfStudents;
 
     CourseSession(String department, String number) {
         this.department = department;
